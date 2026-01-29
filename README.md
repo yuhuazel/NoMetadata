@@ -5,6 +5,12 @@ Drag & drop or add files/folders, click **Remove Metadata**, and cleaned images 
 
 ---
 
+<p align="center">
+  <img width="778" height="448" alt="Preview" src="https://github.com/user-attachments/assets/35896680-c4c5-4fd3-bcee-8a4cb2d5581f" />
+</p>
+
+---
+
 ## ✨ Features
 - ✅ Dark-themed GUI (Tkinter)
 - ✅ Drag & drop support (uses `tkinterdnd2` when bundled)
