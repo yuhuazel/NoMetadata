@@ -1,6 +1,6 @@
 # 🛡️ No Metadata — Photo Metadata Remover
 
-A small, offline desktop tool (Tkinter + Pillow) that **strips all metadata** from images for privacy.  
+A lightweight desktop program that **strips all metadata** from images for privacy.  
 Drag & drop or add files/folders, click **Remove Metadata**, and cleaned images are saved to a `No Metadata` folder next to where the program or file is located.
 
 ---
@@ -57,4 +57,4 @@ Open a terminal in the project folder and run:
 cd path/to/project
 
 # Create EXE with icon and version info
-pyinstaller --windowed --icon=icon.ico --version-file=file_version_info.txt "nometadata.py"
+pyinstaller --onefile --windowed --icon=icon.ico --version-file=file_version_info.txt nometadata.py
