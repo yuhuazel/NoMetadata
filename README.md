@@ -1,7 +1,7 @@
 # 🛡️ No Metadata — Photo Metadata Remover
 
 A small, offline desktop tool (Tkinter + Pillow) that **strips all metadata** from images for privacy.  
-Drag & drop or add files/folders, click **Remove Metadata**, and cleaned images are saved to a `No Metadata` folder next to the app.
+Drag & drop or add files/folders, click **Remove Metadata**, and cleaned images are saved to a `No Metadata` folder next to where the program or file is located.
 
 ---
 
@@ -35,6 +35,8 @@ You only need these installed in your build environment (the final packaged app 
   <img alt="YAML" src="https://skillicons.dev/icons?i=yaml" width="40" height="40"/>
   <img alt="Text" src="https://skillicons.dev/icons?i=txt" width="40" height="40"/>
 </p>
+
+- 'nometadata.py' Main File (252 Lines)
 
 ---
 
