@@ -36,7 +36,7 @@ You only need these installed in your build environment (the final packaged app 
   <img alt="Text" src="https://skillicons.dev/icons?i=txt" width="40" height="40"/>
 </p>
 
-- 'nometadata.py' Main File (252 Lines)
+- `nometadata.py` - Main File (252 Lines)
 
 ---
 
